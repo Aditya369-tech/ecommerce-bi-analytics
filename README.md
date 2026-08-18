@@ -19,18 +19,21 @@ An end-to-end business intelligence project modeling transactional retail data i
 ![Executive Overview](images/page1_overview.png)
 * Top-line metrics: Revenue, Total Orders, Average Order Value (AOV), Customer Count, and Delivery Days.
 * Monthly revenue velocity trends, category-level revenue contribution, payment method mix, and regional order volume.
+* ![Executive Overview](Screenshot%202026-08-18%20203821.png)
 
 ### 2. Customer RFM Analysis
 ![Customer RFM Analysis](images/page2_rfm.png)
 * Customer segmentation across Recency, Frequency, and Monetary value.
 * Identifies revenue concentration among Champions/Loyal segments vs. At-Risk and Lost accounts.
 * Scatter plot tracking engagement frequency against lifetime monetary spend.
+* ![Customer RFM Analysis](Screenshot%202026-08-18%20203914.png)
 
 ### 3. Logistics & Customer Satisfaction
 ![Logistics and Satisfaction](images/page3_logistics.png)
 * Correlation analysis between fulfillment speed tiers and customer review scores.
 * Regional delivery volume mapped against transit duration.
 * Baseline latency evaluation across payment methods and category-specific logistics tracking.
+* ![Logistics and Satisfaction](Screenshot%202026-08-18%20204425.png)
 
 ---
 
